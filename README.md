@@ -13,10 +13,10 @@
 2. Buat folder baru dengan nama lab8_php_database pada docroot webserver (htdocs)
 3. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
    
-### Langkah-langkah Praktikum
-### Persiapan
-#### Untuk memulai membuat aplikasi CRUD sederhana, yang perlu disiapkan adalah database server menggunakan MySQL. Pastikan MySQL Server sudah dapat dijalankan melalui XAMPP.
-#### Menjalankan MySQL Server Untuk menjalankan MySQL Server dari menu XAMPP Contol.
+### Langkah-langkah Praktiku
+- Persiapan
+- Untuk memulai membuat aplikasi CRUD sederhana, yang perlu disiapkan adalah database server menggunakan MySQL. Pastikan MySQL Server sudah dapat dijalankan melalui XAMPP.
+- Menjalankan MySQL Server Untuk menjalankan MySQL Server dari menu XAMPP Contol.
 
 ## Menjalankan MySQL Server
 ### Untuk menjalankan MySQL Server dari menu XAMPP Contol.
